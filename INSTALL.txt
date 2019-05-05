@@ -1,0 +1,32 @@
+ENGLISH
+
+This short manual describe how to compile qTwister from the source code on Linux.
+
+First of all, you need Qt 4 (4.6 preferably). It is likely already installed on your system. If not, install it, then follow these steps:
+
+1. Extract the archive and cd to qTwister directory.
+2. qmake -makefile
+3. make
+4. make clean
+5. Check if you have "play" program installed (try to type "play qTwister/sounds/btn.wav"). If not, install it. qTwister uses "play" to 
+   play sounds on Linux so you won't be able to hear anything without it.
+
+That's all, you can run ./qTwister to play.
+Enjoy!
+
+
+РУССКОЕ ОПИСАНИЕ
+
+Это краткое описание процесса сборки qTwister из исходников в Linux.
+
+Во-первых, вам необходим Qt 4 (желательно 4.6). Вероятно, он уже у вас есть. Если нет - поставьте, а затем проделайте следующее:
+
+1. Распакуйте архив и перейдите в директорию qTwister.
+2. qmake -makefile
+3. make
+4. make clean
+5. Проверьте, установлена ли у вас программа "play" (попробуйте набрать "play qTwister/sounds/btn.wav"). Если нет - установите ее.
+   В qTwister для проигрывания звуков под Linux используется именно "play", так что без этой программы вы ничего не услышите.
+
+Вот и все, запускайте ./qTwister.
+Приятной игры!

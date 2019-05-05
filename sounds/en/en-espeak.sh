@@ -1,0 +1,34 @@
+mkdir male
+espeak "left hand on yellow" -p50 -s160 -v en/en-rp+m3 -w male/lhy.wav
+espeak "left hand on blue" -p50 -s160 -v en/en-rp+m3 -w male/lhb.wav
+espeak "left hand on red" -p50 -s160 -v en/en-rp+m3 -w male/lhr.wav
+espeak "left hand on green" -p50 -s160 -v en/en-rp+m3 -w male/lhg.wav
+espeak "right hand on yellow" -p50 -s160 -v en/en-rp+m3 -w male/rhy.wav
+espeak "right hand on blue" -p50 -s160 -v en/en-rp+m3 -w male/rhb.wav
+espeak "right hand on red" -p50 -s160 -v en/en-rp+m3 -w male/rhr.wav
+espeak "right hand on green" -p50 -s160 -v en/en-rp+m3 -w male/rhg.wav
+espeak "left foot on yellow" -p50 -s160 -v en/en-rp+m3 -w male/lfy.wav
+espeak "left foot on blue" -p50 -s160 -v en/en-rp+m3 -w male/lfb.wav
+espeak "left foot on red" -p50 -s160 -v en/en-rp+m3 -w male/lfr.wav
+espeak "left foot on green" -p50 -s160 -v en/en-rp+m3 -w male/lfg.wav
+espeak "right foot on yellow" -p50 -s160 -v en/en-rp+m3 -w male/rfy.wav
+espeak "right foot on blue" -p50 -s160 -v en/en-rp+m3 -w male/rfb.wav
+espeak "right foot on red" -p50 -s160 -v en/en-rp+m3 -w male/rfr.wav
+espeak "right foot on green" -p50 -s160 -v en/en-rp+m3 -w male/rfg.wav
+mkdir female
+espeak "left hand on yellow" -p75 -s160 -v en/en-rp+f4 -w female/lhy.wav
+espeak "left hand on blue" -p75 -s160 -v en/en-rp+f4 -w female/lhb.wav
+espeak "left hand on red" -p75 -s160 -v en/en-rp+f4 -w female/lhr.wav
+espeak "left hand on green" -p75 -s160 -v en/en-rp+f4 -w female/lhg.wav
+espeak "right hand on yellow" -p75 -s160 -v en/en-rp+f4 -w female/rhy.wav
+espeak "right hand on blue" -p75 -s160 -v en/en-rp+f4 -w female/rhb.wav
+espeak "right hand on red" -p75 -s160 -v en/en-rp+f4 -w female/rhr.wav
+espeak "right hand on green" -p75 -s160 -v en/en-rp+f4 -w female/rhg.wav
+espeak "left foot on yellow" -p75 -s160 -v en/en-rp+f4 -w female/lfy.wav
+espeak "left foot on blue" -p75 -s160 -v en/en-rp+f4 -w female/lfb.wav
+espeak "left foot on red" -p75 -s160 -v en/en-rp+f4 -w female/lfr.wav
+espeak "left foot on green" -p75 -s160 -v en/en-rp+f4 -w female/lfg.wav
+espeak "right foot on yellow" -p75 -s160 -v en/en-rp+f4 -w female/rfy.wav
+espeak "right foot on blue" -p75 -s160 -v en/en-rp+f4 -w female/rfb.wav
+espeak "right foot on red" -p75 -s160 -v en/en-rp+f4 -w female/rfr.wav
+espeak "right foot on green" -p75 -s160 -v en/en-rp+f4 -w female/rfg.wav
